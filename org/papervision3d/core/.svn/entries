@@ -1,0 +1,79 @@
+10
+
+dir
+2865
+http://www.libspark.org/svn/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/core
+http://www.libspark.org/svn
+
+
+
+2009-06-03T06:06:20.075653Z
+2780
+saqoosha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7c0a6d06-9f08-4704-a8a8-7f8aea5d0da0
+
+animation
+dir
+
+effects
+dir
+
+render
+dir
+
+ns
+dir
+
+log
+dir
+
+controller
+dir
+
+geom
+dir
+
+math
+dir
+
+dyn
+dir
+
+culling
+dir
+
+material
+dir
+
+utils
+dir
+
+proto
+dir
+
+clipping
+dir
+
+io
+dir
+
+data
+dir
+
+view
+dir
+

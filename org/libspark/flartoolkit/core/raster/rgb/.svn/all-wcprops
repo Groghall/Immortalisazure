@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/libspark/flartoolkit/core/raster/rgb
+END
+NyARRgbRaster_RGB.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/libspark/flartoolkit/core/raster/rgb/NyARRgbRaster_RGB.java
+END
+PixelReader.as
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/libspark/flartoolkit/core/raster/rgb/PixelReader.as
+END
+FLARRgbRaster_BitmapData.as
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/libspark/flartoolkit/core/raster/rgb/FLARRgbRaster_BitmapData.as
+END
+FLARRgbRaster_BasicClass.as
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/libspark/flartoolkit/core/raster/rgb/FLARRgbRaster_BasicClass.as
+END
+IFLARRgbRaster.as
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/libspark/flartoolkit/core/raster/rgb/IFLARRgbRaster.as
+END
+NyARRgbRaster_Blank.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/libspark/flartoolkit/core/raster/rgb/NyARRgbRaster_Blank.java
+END
+FLARRgbRaster_BGRA.as
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/libspark/flartoolkit/core/raster/rgb/FLARRgbRaster_BGRA.as
+END

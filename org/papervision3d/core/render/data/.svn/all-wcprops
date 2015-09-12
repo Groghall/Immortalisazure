@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/core/render/data
+END
+RenderSessionData.as
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/core/render/data/RenderSessionData.as
+END
+RenderHitData.as
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/core/render/data/RenderHitData.as
+END
+QuadTreeNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/core/render/data/QuadTreeNode.as
+END
+QuadTree.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/core/render/data/QuadTree.as
+END
+RenderStatistics.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/core/render/data/RenderStatistics.as
+END

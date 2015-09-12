@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/core/render/sort
+END
+BasicRenderSorter.as
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/core/render/sort/BasicRenderSorter.as
+END
+IRenderSorter.as
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/core/render/sort/IRenderSorter.as
+END
+NullSorter.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/core/render/sort/NullSorter.as
+END

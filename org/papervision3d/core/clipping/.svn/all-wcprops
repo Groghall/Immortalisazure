@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/core/clipping
+END
+DefaultClipping.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/core/clipping/DefaultClipping.as
+END
+FrustumClipping.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/core/clipping/FrustumClipping.as
+END

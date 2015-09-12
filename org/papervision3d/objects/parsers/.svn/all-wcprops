@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/objects/parsers
+END
+Collada.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/objects/parsers/Collada.as
+END
+Max3DS.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/objects/parsers/Max3DS.as
+END
+KMZ.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/objects/parsers/KMZ.as
+END
+MD2.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/objects/parsers/MD2.as
+END
+Sketchup.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/objects/parsers/Sketchup.as
+END
+SketchupCollada.as
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/objects/parsers/SketchupCollada.as
+END
+Ase.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/objects/parsers/Ase.as
+END
+DAE.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/objects/parsers/DAE.as
+END

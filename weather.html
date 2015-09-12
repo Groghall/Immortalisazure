@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Immortalis</title>
+
+  <link rel="icon" href="img/immortalis-fav.png">
+
+  <link href="css/home.css" rel="stylesheet">
+  <link href="weatherslider/css/weatherslider.css" rel="stylesheet" >
+  <link href="css/bootstrap.css" rel="stylesheet">
+  
+  
+</head>
+  <body>
+<div class="box">
+  <div class="container">
+    <div class="navbar navbar-default" role="navigation">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <!--<a class="navbar-brand" href="../index"><img src="img/mechaincum_logo.png" alt="">-->
+            </a>
+          </div>
+
+          <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+              <li><a class="brand" href="index.html"> <img src="img/immortalis-fav1.png"></a></li>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="about.html">About</a></li>
+              <li><a href="games.html">Gaming</a></li>
+              <li><a href="books.html">Books</a></li>
+              <li><a href="weather.html">Weather</a></li>
+            </ul>  
+          </div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+      </div>
+
+    <hr>
+<br/>
+<br/>
+<br/>
+
+<div id="weatherslider" style="width: 1200px; height: 400px;">
+      	<!--<span class="ws-location">GEOLOCATION</span>-->
+    		<span class="ws-location">Liverpool, United Kingdom</span>
+    		<span class="ws-location">Wallasey, United Kingdom</span>
+    <!-- The locations of your slider will be here -->
+	</div>
+
+<br/>
+<br/>
+<br/>
+
+<hr>
+<footer class="pull-left">
+  <ul>
+    <li>
+      <a href="https://www.facebook.com/pages/Gault-Tech/441424729273146?skip_nax_wizard=true"><img src="img/icon-facebook.png"/>
+      </a>
+    </li>
+    <li>
+      <a href="https://twitter.com/TheGrault"><img src="img/Twitter-logo.png"/>
+      </a>
+    </li>
+    <li>
+      <a href="https://uk.linkedin.com/pub/stephen-gault/81/a99/713/"><img src="img/linkedin.png"/>
+      </a>
+    </li>
+  </ul>
+</footer>
+
+<footer class="pull-right">
+  <p style="color:white">&copy; Stephen Gault <script>document.write(new Date().getFullYear());</script> 
+  </p>
+</footer>
+
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery-1.10.2.js"></script>
+
+<!--WeatherSlider Scripts-->
+
+<script src="weatherslider/jQuery/jquery.js" type="text/javascript"></script>
+<script src="weatherslider/jQuery/jquery-easing.js" type="text/javascript"></script>
+<script src="weatherslider/jQuery/jquery-animate-background-position.js" type="text/javascript"></script>
+  
+<!-- You will need the following line ONLY if you are using GEOLOCATION -->
+<script src="https://maps.googleapis.com/maps/api/js?sensor=true&language=en" type="text/javascript"></script>
+  
+<!-- WeatherSlider from Kreatura Media -->
+<script src="weatherslider/js/weatherslider.kreaturamedia.jquery.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+ 
+    // Running the code when the document is ready
+    $(document).ready(function(){
+ 
+        // Calling WeatherSlider on the target element with adding custom slider options
+        $('#weatherslider').weatherSlider({
+ 
+            WWOAPIKey: 'b5cbx8ke2nxp2eg6dq6n7vwd',
+            premiumAPIKey: false,
+            imgPath: 'weatherslider/img/'
+ 
+            // Other options goes here. Please make sure that you didn't forget
+            // to add a comma to the line endings except the last line!
+        });
+    });
+ 
+</script>
+	</body>
+</html>

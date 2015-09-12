@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/core/effects/utils
+END
+ConvolutionMatrices.as
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/core/effects/utils/ConvolutionMatrices.as
+END
+BitmapClearMode.as
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/core/effects/utils/BitmapClearMode.as
+END
+BitmapDrawCommand.as
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/papervision3d/core/effects/utils/BitmapDrawCommand.as
+END

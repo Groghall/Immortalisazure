@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/libspark/flartoolkit/core/rasterfilter
+END
+INyARRasterFilter_RgbToGs.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/libspark/flartoolkit/core/rasterfilter/INyARRasterFilter_RgbToGs.java
+END
+INyARRasterFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/libspark/flartoolkit/core/rasterfilter/INyARRasterFilter.java
+END
+INyARRasterFilter_GsToBin.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/2780/as3/FLARToolKit/trunk/starter-kit/org/libspark/flartoolkit/core/rasterfilter/INyARRasterFilter_GsToBin.java
+END

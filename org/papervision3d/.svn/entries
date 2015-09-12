@@ -1,0 +1,92 @@
+10
+
+dir
+2865
+http://www.libspark.org/svn/as3/FLARToolKit/trunk/starter-kit/org/papervision3d
+http://www.libspark.org/svn
+
+
+
+2009-06-03T06:06:20.075653Z
+2780
+saqoosha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7c0a6d06-9f08-4704-a8a8-7f8aea5d0da0
+
+render
+dir
+
+scenes
+dir
+
+materials
+dir
+
+events
+dir
+
+typography
+dir
+
+core
+dir
+
+Papervision3D.as
+file
+
+
+
+
+2009-07-02T10:15:44.819000Z
+551b3fc91cd7d60d19137b941844a4f9
+2009-06-03T06:06:20.075653Z
+2780
+saqoosha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1736
+
+objects
+dir
+
+lights
+dir
+
+view
+dir
+
+cameras
+dir
+
