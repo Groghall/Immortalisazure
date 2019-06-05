@@ -3,6 +3,7 @@
 }
 body {
     background-image: var(--bg-img);
+    background-size: cover;
 }
 
 p {
