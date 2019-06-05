@@ -6,6 +6,14 @@ body {
     background-size: cover;
 }
 
+.brand {
+  padding: 15px;
+}
+
+.nav-item {
+  padding: 5px o;
+}
+
 p {
 color: #a39b9b;
 font-size: 15px;
