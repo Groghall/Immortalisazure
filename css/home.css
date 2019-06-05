@@ -6,6 +6,11 @@ body {
     background-size: cover;
 }
 
+.brand {
+  padding: 15px 10px;
+  cursor: pointer;
+}
+
 .nav-item {
   padding: 5px 0;
 }
