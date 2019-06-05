@@ -1,5 +1,5 @@
-root: {
-   --bg-img: url(https://res.cloudinary.com/stegault/image/upload/v1559727685/85004.jpg)
+:root {
+   --bg-img: url(https://res.cloudinary.com/stegault/image/upload/v1559727685/85004.jpg);
 }
 body {
     background-image: var(--bg-img);
