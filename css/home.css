@@ -6,12 +6,12 @@ body {
     background-size: cover;
 }
 
-.brand {
+.brand img {
   padding: 15px;
 }
 
 .nav-item {
-  padding: 5px o;
+  padding: 5px 0;
 }
 
 p {
