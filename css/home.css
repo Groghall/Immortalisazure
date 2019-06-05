@@ -4,36 +4,19 @@
 body {
     background-image: var(--bg-img);
 }
+
 p {
 color: #a39b9b;
 font-size: 15px;
 }
 
-/*/.navbar-inverse {
-    display: inline-block;
-    float: none;
-    background: rgba(0,0,0,0.5);
-    border-color: #fefefe;
-}
-
-.navbar-inverse .navbar-nav>li>a:hover {
-   display: inline-block;
-    float: none;
-  color: #00d5e0;
-}
-.navbar-inverse .navbar-nav>li>a {
-   display: inline-block;
-    float: none;
-  color: #ffffff;
-}
-*/
 .navbar-brand {
    display: inline-block;
-    float: none;
-  height: auto;
+   float: none;
+   height: auto;
    margin: 0;
-  padding: 0px 0px 0px;
-  line-height: 20px;
+   padding: 0px 0px 0px;
+   line-height: 20px;
 }
 
 .box {
