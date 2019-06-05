@@ -4,6 +4,7 @@
 body {
     background-image: var(--bg-img);
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .brand {
