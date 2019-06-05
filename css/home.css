@@ -1,6 +1,8 @@
-
+root: {
+   --bg-img: url(https://res.cloudinary.com/stegault/image/upload/v1559727685/85004.jpg)
+}
 body {
-    background-image: url(https://res.cloudinary.com/stegault/image/upload/v1559727685/85004.jpg);
+    background-image: var(--bg-img);
 }
 p {
 color: #a39b9b;
