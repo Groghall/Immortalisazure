@@ -59,11 +59,6 @@ body {
   padding: 30px 15px;
 }
 
-.col-lg-6 {
-  background: var(--bg-white);
-  width: 50%;
-}
-
 .panel-default {
   border-color: var(--border-black);
   border-width: 2px;
