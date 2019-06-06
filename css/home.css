@@ -4,10 +4,12 @@
   --black-transparent: rgba(255, 255, 255, 0.1);
   --blue-transparent: rgba(122, 130, 136, 0.2);
   --border-black: #000000;
+  --border-white: #E7E7E7;
   --bg-white: #FFFFFF;
+  --bg-off_white: #f8f8f8;
   --black: #000000;
   --white: #FFFFFF;
-  --light-gray: #a39b9b;
+  --light-gray: #A39B9B;
 }
 
 html {
@@ -84,9 +86,9 @@ body {
   color: #fff;
 }
 
-.navbar-default {
-  background-color: var(--black-transparent);
-  border-color: none;
+.bg--override {
+  background-color: var(--bg-off_white)!important;
+  border-color: var(--border-white)!important;
 }
 
 .navbar .navbar-nav {
