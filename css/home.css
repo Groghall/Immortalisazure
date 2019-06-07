@@ -126,6 +126,10 @@ body {
   background: var(--blue-transparent) !important;
 }
 
+footer {
+  position: absolute;
+  bottom: 0;
+}
 
 footer ul {
   margin: 0;
