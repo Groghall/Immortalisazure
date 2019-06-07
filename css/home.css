@@ -30,7 +30,12 @@ p {
   font-size: 15px;
 }
 
-
+main {
+  position: absolute;
+  top: 7á0px; /* Header Height */
+  bottom: 70px; /* Footer Height */
+  width: 100%;
+}
 
 body {
   background-image: var(--bg-img);
