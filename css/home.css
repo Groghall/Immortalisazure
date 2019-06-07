@@ -57,7 +57,8 @@ body {
 }
 
 .copyright {
-  color: var(--white)
+  color: var(--white);
+  padding: 0!important;
 }
 
 .pr-1 {
